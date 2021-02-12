@@ -1,11 +1,10 @@
 ## Ala
 
-[点击前往音乐人主页](https://music.163.com/#/artist?id=12126761) 
+[Click to go to the musician's home page](https://music.163.com/#/artist?id=12126761) 
 
-生日：10月24日
 
-### 近期更新
-
+### Recent
+2.12：Completed my website on February 12
 
 ```markdown
 Syntax highlighted code block
