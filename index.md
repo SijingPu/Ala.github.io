@@ -2,11 +2,10 @@
 
 [点击前往音乐人主页](https://music.163.com/#/artist?id=12126761) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+生日：10月24日
 
-### Markdown
+### 近期更新
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
